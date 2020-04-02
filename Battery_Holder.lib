@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Battery_Holder_SMD1
+#
+DEF Battery_Holder_SMD1 B 0 0 Y N 1 F N
+F0 "B" 0 600 50 H V C CNN
+F1 "Battery_Holder_SMD1" 50 -450 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 12 -100 300 100 300 N
+P 2 0 1 0 0 200 0 250 N
+P 2 0 1 39 50 250 -50 250 N
+X ~ 1 0 400 100 D 50 50 1 1 O
+X ~ 2 0 100 100 U 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library
