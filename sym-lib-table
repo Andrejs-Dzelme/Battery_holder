@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name Battery_Holder)(type Legacy)(uri "C:/Users/Andrejs/Desktop/Skola VeA/KiCad Andrejs Dzelme/BaterijaLodlaukums/Battery_Holder.lib")(options "")(descr ""))
   (lib (name Battery_Holder2)(type Legacy)(uri "C:/Users/Andrejs/Desktop/Skola VeA/KiCad Andrejs Dzelme/BaterijaLodlaukums/Battery_Holder2.lib")(options "")(descr ""))
+  (lib (name BaterijaLodlaukums-rescue)(type Legacy)(uri ${KIPRJMOD}/BaterijaLodlaukums-rescue.lib)(options "")(descr ""))
 )

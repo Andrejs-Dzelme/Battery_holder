@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# BaterijaLodlaukums-rescue_Battery_Holder_SMD1-Battery_Holder
+# Battery_Holder_SMD1-Battery_Holder
 #
-DEF BaterijaLodlaukums-rescue_Battery_Holder_SMD1-Battery_Holder B 0 0 Y N 1 F N
+DEF Battery_Holder_SMD1-Battery_Holder B 0 0 Y N 1 F N
 F0 "B" 0 600 50 H V C CNN
-F1 "BaterijaLodlaukums-rescue_Battery_Holder_SMD1-Battery_Holder" 50 -450 50 H V C CNN
+F1 "Battery_Holder_SMD1-Battery_Holder" 50 -450 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
